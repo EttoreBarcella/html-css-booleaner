@@ -1,13 +1,13 @@
-.logo{
-    height: 150px;
+#logo{
     width: 200px;
+    margin-top: 100px;
     
 }
 
-#bglogo{
+.bglogo{
     background-color:#668cff;
     background-image: url("../img/pattern.png");
-    
+    height: 100%;
 }
 
 
