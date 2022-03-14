@@ -1,0 +1,29 @@
+.logo{
+    height: 150px;
+    width: 200px;
+    
+}
+
+#bglogo{
+    background-color:#668cff;
+    background-image: url("../img/pattern.png");
+    
+}
+
+
+#grey{
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+    color: #00ccff;
+}
+
+h4{
+    margin: 0%;
+}
+
+h5{
+    margin: 0%;
+}
