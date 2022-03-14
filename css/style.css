@@ -40,3 +40,17 @@ ul{
     padding: 15px;
     
 }
+
+thead{
+    background-color: #00ccff;
+    color: white;
+    
+}
+
+th{
+    width: 33%;
+}
+
+.azzurro{
+    background-color: #99ccff;
+}
