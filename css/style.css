@@ -21,7 +21,7 @@ a{
 }
 
 h4{
-    margin: 0%;
+    margin-bottom: 0%;
 }
 
 #data{
@@ -53,4 +53,25 @@ th{
 
 .azzurro{
     background-color: #99ccff;
+}
+
+#footer{
+    color: grey;
+}
+
+#computer{
+    background-image: url("../img/monitor.jpg");
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#graph{
+    background-image: url("../img/graph.jpg");
+    height: 200px;
+    width: 300px;
+    margin-bottom: 30px;
+    background-repeat: no-repeat;
+    color: white;
 }
